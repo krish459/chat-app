@@ -4,7 +4,8 @@
   "description": "This is app is used for chatting.",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon server.js"
+    "test": "nodemon server.js",
+    "build": "npm build"
   },
   "author": "",
   "license": "ISC",
